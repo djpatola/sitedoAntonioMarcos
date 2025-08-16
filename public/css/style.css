@@ -16,7 +16,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f7f7f7;
-    color: #333;
+    color: black;
     padding: 0;
 }
 
@@ -25,13 +25,13 @@ header {
     text-align: center;
     margin-bottom: 20px;
     background-color: #fff;
-    border-bottom: 3px solid #2e7d32;
+    border-bottom: 3px solid black;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 /* Títulos */
 h1, h2 {
-    color: #2e7d32;
+    color: black;
     text-align: center;
     margin: 20px 0;
 }
@@ -51,7 +51,7 @@ table {
 }
 
 table th {
-    background-color: #4caf50;
+    background-color: black;
     color: white;
     padding: 10px;
 }
